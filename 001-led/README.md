@@ -1,0 +1,1 @@
+- [Quickstart Intro to Kicad](https://youtu.be/l9b_6WLemmg)
