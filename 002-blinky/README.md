@@ -18,11 +18,11 @@
 - To add a background color, press E over the line that makes the rectangle
 - Save and close the window
 
-![](https://github.com/s-estay/Kicad/blob/master/002-blinky/002a.png)
+![](https://github.com/s-estay/Kicad/blob/master/img/002a.png)
 
 - To see what the component looks like, go to the schematic and press A (place symbol)
 
-![](https://github.com/s-estay/Kicad/blob/master/002-blinky/002b.png)
+![](https://github.com/s-estay/Kicad/blob/master/img/002b.png)
 
 ## Schematic
 
