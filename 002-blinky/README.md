@@ -28,6 +28,8 @@
 
 - To move around, hold and drag the wheel
 - To zoom in/out, scrool the mouse wheel
+- To add component, press A
+- To duplicate component (add more than one component), press C
 - To move component, put mouse over it and press M
 - To rotate component, press R
 - To change value of the component, press V
