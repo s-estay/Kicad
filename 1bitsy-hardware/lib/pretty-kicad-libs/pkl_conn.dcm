@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP pkl_JACK_3C1S
+D 3 Conductor 1 Switch Stereo audio Jack
+K stereo audio jack
+$ENDCMP
+#
+$CMP pkl_Micro_SD
+D Micro SD Card Reader
+K CONN Micro SD
+$ENDCMP
+#
+$CMP pkl_RJ45-TRANSFO
+D RJ45 with transformer + leds WURTH
+K RJ45
+$ENDCMP
+#
+$CMP pkl_SD_Card
+D SD Card Reader
+K CONN SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
+$CMP pkl_USB_A
+D A connector
+K USB USB_A
+$ENDCMP
+#
+$CMP pkl_USB_OTG
+D USB OTG micro/mini connector
+K USB USB_OTG USB_mini USB_micro
+$ENDCMP
+#
+$CMP pkl_coax_conn
+D Generic coaxial connector
+$ENDCMP
+#
+#End Doc Library

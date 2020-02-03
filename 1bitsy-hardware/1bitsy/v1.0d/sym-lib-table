@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 1bitsy-rescue)(type Legacy)(uri ${KIPRJMOD}/1bitsy-rescue.lib)(options "")(descr ""))
+  (lib (name 1bitsy)(type Legacy)(uri /home/sebastian/Documents/Kicad/1bitsy-hardware/lib/1bitsy-hardware-lib/kicad/1bitsy.lib)(options "")(descr ""))
+)
